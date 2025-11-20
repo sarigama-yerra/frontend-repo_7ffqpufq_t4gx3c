@@ -1,0 +1,31 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 195 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.126.144:3000/
+10:34:07 AM [vite] warning: The character ">" is not valid inside a JSX element
+35 |                <div className="text-white/90">When transaction matches:</div>
+36 |                <div className="mt-3 grid sm:grid-cols-2 gap-3">
+37 |                  <div className="rounded-xl bg-white/5 px-4 py-3 border border-white/10">Amount > $1,000</div>
+   |                                                                                                 ^
+38 |                  <div className="rounded-xl bg-white/5 px-4 py-3 border border-white/10">Vendor = SaaS</div>
+39 |                </div>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Automations.jsx
+10:34:08 AM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline
+10:34:08 AM [vite] ✨ optimized dependencies changed. reloading
+10:34:09 AM [vite] warning: The character ">" is not valid inside a JSX element
+35 |                <div className="text-white/90">When transaction matches:</div>
+36 |                <div className="mt-3 grid sm:grid-cols-2 gap-3">
+37 |                  <div className="rounded-xl bg-white/5 px-4 py-3 border border-white/10">Amount > $1,000</div>
+   |                                                                                                 ^
+38 |                  <div className="rounded-xl bg-white/5 px-4 py-3 border border-white/10">Vendor = SaaS</div>
+39 |                </div>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Automations.jsx
